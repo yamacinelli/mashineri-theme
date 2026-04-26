@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yamacinelli/mashineri-theme/blob/main/logo-tagline.svg?raw=true" alt="Mashineri Theme" width="60%" />
+  <img src="https://github.com/yamacinelli/mashineri-theme/blob/main/logo-tagline.svg?raw=true" alt="Mashineri Theme" width="90%" />
 </p>
 
 <p align="center">
@@ -22,5 +22,3 @@
 
 # License
 [MIT © Yago Macinelli](https://github.com/yamacinelli/mashineri-theme/blob/main/LICENSE)
-
-**Enjoy!**
