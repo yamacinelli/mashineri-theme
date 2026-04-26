@@ -1,0 +1,49 @@
+{
+  "name": "mashineri-theme",
+  "displayName": "Mashineri Theme",
+  "description": "Clean dark theme for VSCode",
+  "icon": "logo.png",
+  "version": "1.0.0",
+  "publisher": "yamacinelli",
+  "author": {
+    "name": "Yago Macinelli",
+    "email": "yagom.ym@gmail.com",
+    "url": "https://github.com/yamacinelli"
+  },
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "mashineri",
+    "m7i",
+    "mashineri-theme",
+    "aura-theme",
+    "color-theme",
+    "purple-theme",
+    "clean-theme",
+    "macinelli"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aura Dark (Minimal)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aura-dark-minimal.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yamacinelli/mashineri-theme.git"
+  },
+  "homepage": "https://github.com/yamacinelli/mashineri-theme.git",
+  "license": "MIT",
+  "scripts": {
+    "publish": "vsce publish"
+  }
+}
