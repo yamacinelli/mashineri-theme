@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yamacinelli/mashineri-theme/blob/main/logo-tagline.svg?raw=true" alt="Mashineri Theme" width="90%" />
+  <img src="logo-tagline.png" alt="Mashineri Theme" width="90%" />
 </p>
 
 <p align="center">

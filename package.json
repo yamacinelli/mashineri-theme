@@ -45,5 +45,8 @@
   "license": "MIT",
   "scripts": {
     "publish": "vsce publish"
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.9.1"
   }
 }
